@@ -1,0 +1,25 @@
+{
+  "name": "lufeisdk/aliyun_log",
+  "description": "Aliyun Log Service PHP SDK",
+  "keywords": [
+    "aliyun",
+    "sls",
+    "log"
+  ],
+  "homepage": "http://www.aliyun.com/product/sls/",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Rayman Qiu"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.7"
+  },
+  "autoload": {
+    "files": [
+      "Log_Autoload.php"
+    ]
+  }
+}
