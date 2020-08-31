@@ -9,6 +9,7 @@
   "homepage": "http://www.aliyun.com/product/sls/",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Rayman Qiu",
